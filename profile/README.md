@@ -21,7 +21,7 @@ These eight products have public WordPress.org listings. Our diagnostic tools pr
 | **ModelGain Agent Readiness Audit** | WordPress agent-integration and permission readiness. | [Overview](https://modelgain.com/products/agent-readiness-audit/) · [WordPress.org](https://wordpress.org/plugins/modelgain-agent-readiness-audit/) |
 | **ModelGain Multilingual Abilities** | Polylang translation links and coverage evidence. | [Overview](https://modelgain.com/products/multilingual-abilities/) · [WordPress.org](https://wordpress.org/plugins/modelgain-multilingual-abilities/) |
 
-Previously approved \`upaccn-*\` plugin slugs are deliberately retained so existing WordPress installations continue to receive updates. Their public product names use the ModelGain brand.
+Previously approved `upaccn-*` plugin slugs are deliberately retained so existing WordPress installations continue to receive updates. Their public product names use the ModelGain brand.
 
 ## Android field tools
 
