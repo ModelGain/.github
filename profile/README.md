@@ -6,18 +6,26 @@ We build practical products for WordPress, developer workflows, and the agent-en
 
 **[Website](https://modelgain.com/)** · **[All products](https://modelgain.com/products/)** · **[WordPress](https://modelgain.com/wordpress/)** · **[Guides](https://modelgain.com/blog/)** · **[Contact](https://modelgain.com/contact/)**
 
-## WordPress plugins
+## Published WordPress plugins
 
-Focused diagnostic utilities for site owners, developers, and agencies. The following plugins have public WordPress.org listings.
+These eight products have public WordPress.org listings. Our diagnostic tools present evidence for review rather than promising automatic fixes.
 
-| Product | What it helps you investigate | Links |
+| Product | What it helps investigate | Links |
 | --- | --- | --- |
-| **PHP Upgrade Risk Audit** | Potential compatibility risks to review before a PHP version upgrade. | [Overview](https://modelgain.com/products/php-upgrade-risk-audit/) · [WordPress.org](https://wordpress.org/plugins/upaccn-php-upgrade-risk-audit/) |
-| **Health Check for IndexNow** | IndexNow configuration and indexing-submission health. | [Overview](https://modelgain.com/products/indexnow-health-check/) · [WordPress.org](https://wordpress.org/plugins/upaccn-health-check-for-indexnow/) |
-| **Content Link Health Check** | Content links that may need attention or manual review. | [Overview](https://modelgain.com/products/content-link-health-check/) · [WordPress.org](https://wordpress.org/plugins/upaccn-content-link-health-check/) |
-| **Queue Health for Action Scheduler** | Action Scheduler queue visibility and backlog troubleshooting. | [Overview](https://modelgain.com/products/queue-health/) · [WordPress.org](https://wordpress.org/plugins/modelgain-queue-health-for-action-scheduler/) |
+| **ModelGain PHP Upgrade Risk Audit** | Compatibility risks before changing PHP. | [Overview](https://modelgain.com/products/php-upgrade-risk-audit/) · [WordPress.org](https://wordpress.org/plugins/upaccn-php-upgrade-risk-audit/) |
+| **ModelGain PHP Security Monitor** | PHP vulnerability findings, evidence freshness, and monitoring signals. | [Overview](https://modelgain.com/products/php-security-monitor/) · [WordPress.org](https://wordpress.org/plugins/modelgain-php-security-monitor/) |
+| **ModelGain Health Check for IndexNow** | IndexNow key access, host mismatches, and submission responses. | [Overview](https://modelgain.com/products/indexnow-health-check/) · [WordPress.org](https://wordpress.org/plugins/upaccn-health-check-for-indexnow/) |
+| **ModelGain Content Link Health Check** | Broken, redirected, and inconclusive content links. | [Overview](https://modelgain.com/products/content-link-health-check/) · [WordPress.org](https://wordpress.org/plugins/upaccn-content-link-health-check/) |
+| **ModelGain Queue Health for Action Scheduler** | Past-due, failed, or stalled WordPress background actions. | [Overview](https://modelgain.com/products/queue-health/) · [WordPress.org](https://wordpress.org/plugins/modelgain-queue-health-for-action-scheduler/) |
+| **ModelGain WebMCP Forms** | Scoped agent-assisted form filling without automatic submission. | [Overview](https://modelgain.com/products/webmcp-forms/) · [WordPress.org](https://wordpress.org/plugins/modelgain-webmcp-forms/) |
+| **ModelGain Agent Readiness Audit** | WordPress agent-integration and permission readiness. | [Overview](https://modelgain.com/products/agent-readiness-audit/) · [WordPress.org](https://wordpress.org/plugins/modelgain-agent-readiness-audit/) |
+| **ModelGain Multilingual Abilities** | Polylang translation links and coverage evidence. | [Overview](https://modelgain.com/products/multilingual-abilities/) · [WordPress.org](https://wordpress.org/plugins/modelgain-multilingual-abilities/) |
 
-Each product page documents its scope and limitations. A diagnostic result is not a guarantee that every issue will be detected or automatically fixed.
+Previously approved \`upaccn-*\` plugin slugs are deliberately retained so existing WordPress installations continue to receive updates. Their public product names use the ModelGain brand.
+
+## Android field tools
+
+**[Field Companion for NetBox](https://modelgain.com/products/netbox-field-companion/)** is [published on Google Play](https://play.google.com/store/apps/details?id=com.modelgain.fieldcompanion). It helps authorized technicians inspect existing equipment and QR-linked NetBox records on Android; permissions, connectivity, and offline access remain subject to the app's documented limits.
 
 ## WordPress development
 
@@ -27,9 +35,9 @@ We also build and improve WordPress websites, with a focus on **Bricks**, mainta
 
 ## What we're exploring
 
-- **Agent-ready WordPress:** integrations and workflows that make WordPress content and capabilities easier to use with AI agents.
-- **Shopify:** focused tools for merchants and store operations.
-- **Android:** lightweight utilities built around specific workflows.
+- **Further agent-ready WordPress workflows:** new integrations beyond the already published WebMCP and audit tools.
+- **Shopify:** focused utilities for merchants and store operations.
+- **Additional Android utilities:** separate from the published Field Companion app.
 
 These are areas of work, **not a claim that every project has a public release**. We publish availability and release details on our website.
 
